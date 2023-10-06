@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="78e9221447b13110f0ad379bd36d4356" extends="task" label="Home Task" max_length="40" name="x_848853_home_mana_home_task" type="collection"/>
+</database>
